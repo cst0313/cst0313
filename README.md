@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cst0313
-- 👀 I’m interested in solving the ocean and climate problems with robotics and neural networks
+- 👀 I’m interested in solving the ocean and climate problems with engineering methods
 - 🌱 I’m currently learning quantum computing 
 - 💞️ I’m looking to collaborate on physics-informed machine learning 
 - 📫 You can reach me at jeffreychang@ieee.org
