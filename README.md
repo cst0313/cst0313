@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jeffrey, a third year computing student (AIML) at Imperial College London
-- 👀 I’m interested in solving the ocean and climate problems with engineering methods
-- 🌱 I’m currently improving on my ML and skills related to quantitative finance 
+- 🌱 I’m currently improving on my ML and skills related to robotics
 - 📫 You can reach me at jsc323@ic.ac.uk
 
 <!---
