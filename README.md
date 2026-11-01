@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jeffrey, a third year computing student (AIML) at Imperial College London
-- 🌱 I’m currently improving on my ML and skills related to robotics
+- 👋 Hi, I’m Jeffrey, a final year computing student (AIML) at Imperial College London, on exchange at ETHZ
+- 🌱 I’m currently building personal AI agents for students
 - 📫 You can reach me at jsc323@ic.ac.uk
 
 <!---
